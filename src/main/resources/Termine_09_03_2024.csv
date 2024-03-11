@@ -1,0 +1,77 @@
+﻿Datum;Von;Bis;Ort;Lektoren;Gruppen;Lehrfach;Anmerkung;StundeVon;StundeBis
+23.02.2024;12:00:00;13:45:00;P.HG.EDV2;Franz Knipp;BSWE-2B ;Betriebssysteme;2 AT;5;6
+23.02.2024;14:00:00;17:15:00;P.HG.HS2;Elke Szalai;BSWE-2B ;Gesellschaft und Technik;;7;10
+23.02.2024;17:45:00;21:00:00;P.HG.HS2;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;11;14
+24.02.2024;08:30:00;12:00:00;P.HG.CON7;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;1;4
+24.02.2024;13:00:00;16:30:00;P.HG.CON7;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;6;9
+08.03.2024;14:00:00;15:30:00;V.BSWE.MC;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;7;8
+08.03.2024;17:45:00;20:15:00;V.BSWE.MC;Franz Knipp;BSWE-2B ;Grundlagen der Netzwerktechnologien;;11;13
+09.03.2024;09:30:00;12:00:00;V.BSWE.MC;Peter Buzanits;BSWE-2B ;Grundlagen der Netzwerktechnologien;;2;4
+09.03.2024;13:00:00;16:30:00;V.BSWE.MC;Patrizia Sailer, Sebastian Saip;BSWE-2B ;Softwaremanagement I;;6;9
+11.03.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2-FFROPRO;Freifach: Repetitorium Objektorientierte Programmierung;;12;14
+13.03.2024;18:30:00;21:00:00;V.BSWE.MC;Franz Knipp;BSWE-2B ;Softwaremanagement I;;12;14
+20.03.2024;18:30:00;21:00:00;V.BSWE.MC;Sebastian Saip;BSWE-2B ;Softwaremanagement I;;12;14
+22.03.2024;14:00:00;17:15:00;P.HG.CON3;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;7;10
+22.03.2024;17:45:00;20:15:00;P.HG.CON8;Franz Knipp;BSWE-2B ;Grundlagen der Netzwerktechnologien;;11;13
+23.03.2024;08:30:00;12:00:00;P.HG.CON7;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;1;4
+23.03.2024;13:00:00;16:30:00;P.HG.CON7;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;6;9
+25.03.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2-FFROPRO;Freifach: Repetitorium Objektorientierte Programmierung;;12;14
+27.03.2024;18:30:00;21:00:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;12;14
+04.04.2024;09:30:00;12:45:00;V.BSWE.MC;Elke Szalai;BSWE-2B ;Gesellschaft und Technik;;2;5
+04.04.2024;14:00:00;15:30:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;7;8
+04.04.2024;15:45:00;17:15:00;V.BSWE.MC;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;9;10
+04.04.2024;17:45:00;19:15:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;11;12
+04.04.2024;19:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;13;14
+05.04.2024;09:30:00;12:45:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;2;5
+05.04.2024;14:00:00;16:30:00;V.BSWE.MC;Franz Knipp;BSWE-2B ;Grundlagen der Netzwerktechnologien;;7;9
+05.04.2024;16:30:00;20:15:00;V.BSWE.MC;Sebastian Saip;BSWE-2B ;Softwaremanagement I;;10;13
+06.04.2024;09:30:00;12:45:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;2;5
+06.04.2024;14:00:00;17:15:00;V.BSWE.MC;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;7;10
+08.04.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2-FFROPRO;Freifach: Repetitorium Objektorientierte Programmierung;;12;14
+12.04.2024;14:00:00;19:15:00;P.HG.SEM1;Peter Buzanits;BSWE-2B ;Grundlagen der Netzwerktechnologien;;7;12
+13.04.2024;08:30:00;11:00:00;P.HG.CON8;Franz Knipp;BSWE-2B ;Grundlagen der Netzwerktechnologien;;1;3
+13.04.2024;11:15:00;13:45:00;P.HG.CON5;Franz Knipp;BSWE-2B2;Grundlagen der Netzwerktechnologien;;4;6
+13.04.2024;14:45:00;17:15:00;P.HG.CON5;Peter Buzanits;BSWE-2B2;Grundlagen der Netzwerktechnologien;;8;10
+16.04.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;12;14
+17.04.2024;18:30:00;21:00:00;V.BSWE.MC;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;12;14
+23.04.2024;18:30:00;21:00:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;12;14
+24.04.2024;18:30:00;21:00:00;V.BSWE.MC;Peter Buzanits;BSWE-2B2;Grundlagen der Netzwerktechnologien;;12;14
+26.04.2024;14:00:00;16:30:00;V.BSWE.MC;Peter Buzanits;BSWE-2B2;Grundlagen der Netzwerktechnologien;;7;9
+26.04.2024;16:30:00;19:15:00;V.BSWE.MC;Franz Knipp;BSWE-2B2;Grundlagen der Netzwerktechnologien;;10;12
+27.04.2024;14:00:00;17:15:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Softwaremanagement I;;7;10
+30.04.2024;18:30:00;21:00:00;V.BSWE.MC;Peter Buzanits;BSWE-2B ;Grundlagen der Netzwerktechnologien;;12;14
+03.05.2024;14:00:00;17:15:00;P.HG.CON3;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;7;10
+03.05.2024;17:45:00;21:00:00;P.HG.CON3;Patrizia Sailer;BSWE-2B ;Softwaremanagement I;;11;14
+04.05.2024;08:30:00;12:00:00;P.HG.CON7;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;1;4
+04.05.2024;13:00:00;16:30:00;P.HG.CON7;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;6;9
+06.05.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2-FFROPRO;Freifach: Repetitorium Objektorientierte Programmierung;;12;14
+07.05.2024;18:30:00;21:00:00;V.BSWE.MC;Sebastian Saip;BSWE-2B2;Softwaremanagement I;;12;14
+08.05.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Peter Buzanits;BSWE-2B2;Grundlagen der Netzwerktechnologien;;12;14
+15.05.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;12;14
+16.05.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Franz Knipp;BSWE-2B2;Grundlagen der Netzwerktechnologien;;12;14
+17.05.2024;14:00:00;17:15:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;7;10
+17.05.2024;17:45:00;21:00:00;V.BSWE.MC;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;11;14
+18.05.2024;09:30:00;12:45:00;V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;2;5
+18.05.2024;14:00:00;17:15:00;P.EV.BSWE / V.BSWE.MC;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;7;10
+23.05.2024;09:30:00;12:45:00;P.HG.HS2 / P.EV.BSWE;Elke Szalai;BSWE-2B ;Gesellschaft und Technik;;2;5
+23.05.2024;14:00:00;15:30:00;P.HG.CON8;Sebastian Saip;BSWE-2B ;Softwaremanagement I;;7;8
+23.05.2024;15:45:00;17:15:00;P.HG.CON6;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;9;10
+23.05.2024;17:45:00;19:15:00;P.HG.CON6;Sebastian Saip;BSWE-2B2;Softwaremanagement I;;11;12
+24.05.2024;09:30:00;12:45:00;P.HG.CON8 / P.EV.BSWE;Patrizia Sailer;BSWE-2B ;Softwaremanagement I;;2;5
+24.05.2024;14:00:00;16:30:00;P.HG.CON6;Franz Knipp;BSWE-2B2;Grundlagen der Netzwerktechnologien;;7;9
+24.05.2024;16:30:00;19:15:00;P.HG.CON6;Peter Buzanits;BSWE-2B2;Grundlagen der Netzwerktechnologien;;10;12
+25.05.2024;09:30:00;13:45:00;P.HG.HS3;Patrizia Sailer;BSWE-2B ;Formale Grundlagen und Datenbanken;;2;6
+28.05.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;12;14
+29.05.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;12;14
+04.06.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2B2;Objektorientierte Programmierung;;12;14
+05.06.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;12;14
+08.06.2024;09:30:00;12:45:00;P.HG.CON8;Patrizia Sailer;BSWE-2B2;Softwaremanagement I;;2;5
+08.06.2024;14:00:00;17:15:00;P.HG.CON8;Patrizia Sailer;BSWE-2B2;Softwaremanagement I;;7;10
+10.06.2024;18:30:00;21:00:00;V.BSWE.MC;Stefan Neuwirth;BSWE-2-FFROPRO;Freifach: Repetitorium Objektorientierte Programmierung;;12;14
+14.06.2024;14:00:00;19:15:00;P.HG.HS3;Elke Szalai;BSWE-2B ;Gesellschaft und Technik;;7;12
+15.06.2024;08:30:00;12:00:00;P.HG.EDV1;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;;1;4
+15.06.2024;13:00:00;16:30:00;P.HG.CON6;Stephen Morley;BSWE-2B2;Kommunikation Englisch II;;6;9
+20.06.2024;18:30:00;21:00:00;P.EV.BSWE / V.BSWE.MC;Sebastian Saip;BSWE-2B2;Softwaremanagement I;;12;14
+28.06.2024;14:00:00;17:15:00;P.HG.SEM3;Sebastian Saip;BSWE-2B2;Softwaremanagement I;;7;10
+28.06.2024;17:45:00;21:00:00;P.HG.SEM2;Patrizia Sailer;BSWE-2B2;Formale Grundlagen und Datenbanken;;11;14
+06.07.2024;09:30:00;12:45:00;P.HG.EDV2;Barbara-Edith Sach-Lackner;BSWE-2B2;Objektorientierte Programmierung;2AT;2;5
