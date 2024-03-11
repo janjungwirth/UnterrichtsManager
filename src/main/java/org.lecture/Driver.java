@@ -17,6 +17,7 @@ public class Driver {
             if(c.getPlace().contains("P.")&&!c.getPlace().contains("/")){
                 dates.add(c.getDatum());
             }
+            System.out.println(c);
         }
 
         dates.forEach(System.out::println);

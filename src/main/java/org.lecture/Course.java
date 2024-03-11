@@ -2,11 +2,11 @@ package org.lecture;
 
 import lombok.*;
 
+import java.util.Objects;
+
 @Builder
-@Getter
-@Setter
-@EqualsAndHashCode
-@ToString
+@Data
+
 public class Course {
     private Datum datum;
     private Zeit start;
@@ -17,3 +17,6 @@ public class Course {
     private Subject subject;
     private String notes;
 }
+
+
+
